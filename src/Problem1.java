@@ -1,4 +1,4 @@
-public class Euler2 {
+public class Problem1 {
 	/***
 	 * http://projecteuler.net/problem=1
 	 * @param n
@@ -26,6 +26,6 @@ public class Euler2 {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(Euler2.sumMultiplesOf3and5(1000));
+		System.out.println(Problem1.sumMultiplesOf3and5(1000));
 	}
 }
